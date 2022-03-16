@@ -1,0 +1,142 @@
+{
+  "id": "3247002",
+  "name": "tencent",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5383645",
+      "name": "导航",
+      "font_class": "daohang",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "9810108",
+      "name": "分享",
+      "font_class": "fenxiang_2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5387527",
+      "name": "加号",
+      "font_class": "jiahao",
+      "unicode": "eaf3",
+      "unicode_decimal": 60147
+    },
+    {
+      "icon_id": "383679",
+      "name": "空心",
+      "font_class": "kongxin",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1170172",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "5387806",
+      "name": "播放_o",
+      "font_class": "bofang_o",
+      "unicode": "eb5e",
+      "unicode_decimal": 60254
+    },
+    {
+      "icon_id": "5967833",
+      "name": "qq2",
+      "font_class": "qq",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "9974429",
+      "name": "省略号",
+      "font_class": "shenglvehao",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "629339",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "4608883",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7738372",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "17510761",
+      "name": "vip-line",
+      "font_class": "vip-line",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "19657563",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "27919351",
+      "name": "频道管理-侧边栏-自定义菜单",
+      "font_class": "pindaoguanli-cebianlan-zidingyicaidan",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "1546604",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "5532898",
+      "name": "圈子",
+      "font_class": "quanzi",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "6129220",
+      "name": "179会员、vip",
+      "font_class": "huiyuanvip",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "11520233",
+      "name": "笑脸",
+      "font_class": "xiaolian",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "11594401",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    }
+  ]
+}
