@@ -1,0 +1,28 @@
+{
+    "arr": [
+        { "imgsrc": "./images/8-1.png", "text": "【大王饶命每周二、六更新】怼人就变强!" }
+    ],
+    "arr1": [
+        { "imgsrc": "./images/8-5-5.png", "text": "大王饶命" },
+        { "imgsrc": "./images/8-5-1.png", "text": "武炼巅峰" },
+        { "imgsrc": "./images/8-5-2.png", "text": "全职法师" },
+        { "imgsrc": "./images/8-5-3.png", "text": "斗破苍穹" },
+        { "imgsrc": "./images/8-5-4.png", "text": "第一赘婿" }
+    ],
+    "arr2": [
+        { "imgsrc": "./images/8-2.png", "text": "【武炼巅峰】绝地里求生，才能堪破武之极" }
+
+    ],
+    "arr3": [
+        { "imgsrc": "./images/8-6-1.png", "text": "从认真玩游戏开始" },
+        { "imgsrc": "./images/8-6-2.png", "text": "完美世界" },
+        { "imgsrc": "./images/8-6-3.png", "text": "被迫成为反派赘婿" },
+        { "imgsrc": "./images/8-6-4.png", "text": "妖者为王" },
+        { "imgsrc": "./images/8-6-5.png", "text": "重回末日当老大" },
+        { "imgsrc": "./images/8-6-6.png", "text": "吞噬星空" }
+    ],
+    "arr4": [
+        { "imgsrc": "./images/8-4.png", "text": "【魔道祖师】羡云篇霸气回归" }
+
+    ]
+}

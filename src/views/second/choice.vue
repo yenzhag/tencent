@@ -20,10 +20,7 @@
           <img :src="v.imgsrc">
           <p>{{v.name}}</p>
         </van-swipe-item>
-      <!-- <van-swipe-item><img src="/images/2.jpg"></van-swipe-item>
-      <van-swipe-item><img src="/images/3.jpg"></van-swipe-item>
-      <van-swipe-item><img src="/images/4.jpg"></van-swipe-item>
-      <van-swipe-item><img src="/images/5.jpg"></van-swipe-item> -->
+
       </van-swipe>
     </div>
     <h1 class="title">重磅热播</h1>

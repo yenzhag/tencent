@@ -1,0 +1,15 @@
+{
+    "arr": [
+        { "imgsrc": "./images/7-1.png", "vediosrc": "./videio/7-1-1.mp4" }
+    ],
+    "arr1": [
+        { "imgsrc": "./images/7-2-1.png", "text": "直拍小剧场❤超苏彩蛋" },
+        { "imgsrc": "./images/7-2-2.png", "text": "发布会杨紫肖战对唱" },
+        { "imgsrc": "./images/7-2-3.png", "text": "幕后花絮尝沉浸嗑糖" },
+        { "imgsrc": "./images/7-2-4.png", "text": "oST合集宝藏歌单收藏" },
+        { "imgsrc": "./images/7-2-5.png", "text": "高甜采访心剧组气氛担当" },
+        { "imgsrc": "./images/7-2-6.png", "text": "心动时刻林顾初次相遇" },
+        { "imgsrc": "./images/7-2-7.png", "text": "高能片段☆冤宿舍偶遇" },
+        { "imgsrc": "./images/7-2-8.png", "text": "好治愈!林之校顾魏用同一副耳机听歌" }
+    ]
+}

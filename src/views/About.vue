@@ -2,7 +2,7 @@
   <div class="about">
      <div class="head">
      <div class="nav">
-       <img src="/images/3-9.png">
+       <img src="../../public/images/3-9.png">
        <span>广场</span>&nbsp;
        <a href="">动态</a>
        <span class="iconfont icon-daohang"></span>
@@ -20,8 +20,8 @@
          <p>{{v.text}}</p>
          <img :src="v.img2src">
          <h3>{{v.title}}</h3>
-         <span class="iconfont icon-kongxin"></span>
-         <span class="iconfont icon-pinglun"></span>
+         <span class="iconfont icon-kongxin"><i class="i1">{{v.dianzan}}</i></span>
+         <span class="iconfont icon-pinglun"><i class="i1">{{v.pinlun}}</i></span>
          <span class="iconfont icon-fenxiang_2"></span>
        </li>
      </ul>
@@ -55,7 +55,7 @@ export default {
     width: 100%;
     height: 0.4rem;
     /* background-color: palegreen; */
-    border-bottom: 0.005rem solid #ccc;
+    border-bottom: 0.005rem solid #ebebeb;
   }
   .nav img{
     width: 0.4rem;
@@ -103,7 +103,8 @@ export default {
     font-size: 0.13rem !important;
   }
   .list li{
-    border-bottom: 0.01rem solid #ccc;
+    border-bottom: 0.01rem solid #ebebeb;
+    padding: 0.1rem 0;
   }
   .list li .img1{
     width: 0.4rem;
@@ -117,13 +118,14 @@ export default {
   .list li p{
     display: block;
     font-size: 0.14rem;
+    margin: 0.1rem;
   }
   .list li h3{
     padding-left: 0.05rem;
     font-weight: normal;
     width: 0.8rem;
-    background-color: #ccc;
-    color: grey;
+    background-color: #f6f8fa;
+    color: gray;
     height: 0.16rem;
     line-height: 0.16rem;
     border-radius: 0.2rem;
@@ -133,17 +135,23 @@ export default {
   .icon-kongxin{
     display: inline-block;
     vertical-align: middle;
-    transform: translateX(2rem);
+    transform: translateX(1.7rem);
   }
   .icon-pinglun{
     display: inline-block;
-    transform: translateX(2.17rem);
+    transform: translateX(1.8rem);
     vertical-align: middle;
   }
   .icon-fenxiang_2{
     display: inline-block;
-    transform: translateX(2.3rem);
+    transform: translateX(2rem);
     vertical-align: middle;
     color: grey;
+  }
+  .i1{
+    font-size: 0.1rem;
+    vertical-align: top;
+    color: gray;
+
   }
 </style>

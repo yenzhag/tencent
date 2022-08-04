@@ -1,0 +1,39 @@
+{
+    "arr": [
+        { "imgsrc": "./images/4-6.png" },
+        { "imgsrc": "./images/4-1.png" },
+        { "imgsrc": "./images/4-2.png" },
+        { "imgsrc": "./images/4-3.png" },
+        { "imgsrc": "./images/4-4.png" },
+        { "imgsrc": "./images/4-5.png" }
+    ],
+    "arr1": [
+        { "name": "雪中悍刀行", "imgsrc": "./images/4-12.png" },
+        { "name": "赖猫的狮子倒影", "imgsrc": "./images/4-13.png" },
+        { "name": "大王饶命", "imgsrc": "./images/4-14.png" },
+        { "name": "舌尖上的心跳", "imgsrc": "./images/4-15.png" },
+        { "name": "吞噬星空", "imgsrc": "./images/4-16.png" },
+        { "name": "开端", "imgsrc": "./images/4-17.png" },
+        { "name": "完美世界", "imgsrc": "./images/4-18.png" },
+        { "name": "斗破苍穹三年之约", "imgsrc": "./images/4-19.png" }
+    ],
+    "arr2": [
+        { "title": "权益领取", "text": "每月八号限量领取", "imgsrc": "./images/4-3-1.png" },
+        { "title": "数字藏品馆", "text": "获取专属藏品", "imgsrc": "./images/4-3-2.png" },
+        { "title": "送24月VIP", "text": "限时福利", "imgsrc": "./images/4-3-3.png" },
+        { "title": "福利", "text": "限量领取", "imgsrc": "./images/4-3-4.png" },
+        { "title": "抽31天会员", "text": "首次关注公众号", "imgsrc": "./images/4-3-5.png" },
+        { "title": "领18月会员", "text": "限时福利", "imgsrc": "./images/4-3-6.png" }
+    ],
+    "arr3": [
+        { "name": "猎罪图鉴.结局", "text": "从包办CP到王牌搭档", "imgsrc": "./images/4-4-1.png" },
+        { "name": "闪亮的日子·更新", "text": "陆虎和女友高甜日常公开", "imgsrc": "./images/4-4-2.png" },
+        { "name": "独步逍遥·更新", "text": "仙后姐姐来救人!", "imgsrc": "./images/4-4-3.png" },
+        { "name": "骨语2·结局", "text": "疯批男诱捕夜店女郎", "imgsrc": "./images/4-4-4.png" },
+        { "name": "邀好友得体验卡", "text": "vIP+小说联合会员特忠", "imgsrc": "./images/4-4-5.png" },
+        { "name": "探秘太阳系·热播", "text": "距离地球最近的太白金星", "imgsrc": "./images/4-4-6.png" },
+        { "name": "紧急救命·会员全集", "text": "山下智久新垣结衣救死扶伤", "imgsrc": "./images/4-4-7.png" },
+        { "name": "画江湖之不良人5", "text": "·更新强闯敌阵，挑翻通文馆", "imgsrc": "./images/4-4-8.png" }
+    ]
+
+}

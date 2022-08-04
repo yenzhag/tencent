@@ -1,0 +1,36 @@
+{
+    "arr": [
+        { "name": "视频VIP", "title": "首季45元" },
+        { "name": "体育VIP", "title": "新人特惠" },
+        { "name": "免费VIP", "title": "最高领43天" },
+        { "name": "我的钻石", "title": "立即充值" },
+        { "name": "我的积分", "title": "免费兑好礼" },
+        { "name": "我的等级", "title": "登录查看" },
+        { "name": "14个月VIP", "title": "0元领" }
+    ],
+    "arr1": [
+        { "imgsrc": "./images/6-1.png", "text": "闪亮的日子先导片:闪亮家族集结爆梗不断" },
+        { "imgsrc": "./images/6-2.png", "text": "猎罪图鉴第01集" },
+        { "imgsrc": "./images/6-3.png", "text": "电竞人说第65期" }
+    ],
+    "arr2": [
+        { "imgsrc": "./images/6-2-1.png", "title": "爱玩游戏" },
+        { "imgsrc": "./images/6-2-2.png", "title": "小游戏" },
+        { "imgsrc": "./images/6-2-3.png", "title": "领43天会员" },
+        { "imgsrc": "./images/6-2-4.png", "title": "红色大剧" },
+        { "imgsrc": "./images/6-2-5.png", "title": "享余生周边" },
+        { "imgsrc": "./images/6-2-6.png", "title": "领5年会员" },
+        { "imgsrc": "./images/6-2-7.png", "title": "限时送会员" },
+        { "imgsrc": "./images/6-2-8.png", "title": "小鹅花钱" }
+    ],
+    "arr3": [
+        { "title": "设置" },
+        { "title": "个人信息" },
+        { "title": "意见反馈" },
+        { "title": "隐式政策摘要" },
+        { "title": "青少年守护模式" },
+        { "title": "已收集个人信息清单" },
+        { "title": "第三方信息共享清单" },
+        { "title": "权限申请与使用说明" }
+    ]
+}

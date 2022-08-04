@@ -1,10 +1,10 @@
 {
     "arr": [
-        { "img1src": "/images/3-12.png", "name": "浪漫宝贝✨", "text": "呜呜呜 看完冬奥会来看08年的开幕式，太好哭了家人们", "img2src": "/images/3-1.png", "title": "东京奥运会" },
-        { "img1src": "/images/3-13.png", "name": "红烧方便面", "text": "当有人问我为什么不谈恋爱↓", "img2src": "/images/3-2.png", "title": "追剧上头" },
-        { "img1src": "/images/3-14.png", "name": "鹅少✨", "text": "#统领会议入口#帝林对于远东之乱曾有两个看法:一是与雷洪暂时交好，共同对抗半兽人起义;二是放弃远东，撤回瓦伦要塞。各位旗本对这两个观点看法如何?", "img2src": "/images/3-3.png", "title": "紫川动画" },
-        { "img1src": "/images/3-15.png", "name": "假装活在古偶里", "text": "世上鲛人千千万，总有一个不适合你。大家觉得哪条演的最不像鲛人3", "img2src": "/images/3-4.png", "title": "追剧上头" },
-        { "img1src": "/images/3-16.png", "name": "...", "text": "已经第十遍了", "img2src": "/images/3-5.png", "title": "斗罗大陆" }
+        { "img1src": "./images/3-12.png", "name": "浪漫宝贝✨", "text": "呜呜呜 看完冬奥会来看08年的开幕式，太好哭了家人们", "img2src": "./images/3-1.png", "title": "东京奥运会", "dianzan": 99, "pinlun": 88 },
+        { "img1src": "./images/3-13.png", "name": "红烧方便面", "text": "当有人问我为什么不谈恋爱↓", "img2src": "./images/3-2.png", "title": "追剧上头", "dianzan": 45, "pinlun": 65 },
+        { "img1src": "./images/3-14.png", "name": "鹅少✨", "text": "#统领会议入口#帝林对于远东之乱曾有两个看法:一是与雷洪暂时交好，共同对抗半兽人起义;二是放弃远东，撤回瓦伦要塞。各位旗本对这两个观点看法如何?", "img2src": "./images/3-3.png", "title": "紫川动画", "dianzan": 14, "pinlun": 77 },
+        { "img1src": "./images/3-15.png", "name": "假装活在古偶里", "text": "世上鲛人千千万，总有一个不适合你。大家觉得哪条演的最不像鲛人3", "img2src": "./images/3-4.png", "title": "追剧上头", "dianzan": 34, "pinlun": 887 },
+        { "img1src": "./images/3-16.png", "name": "...", "text": "已经第十遍了", "img2src": "./images/3-5.png", "title": "斗罗大陆", "dianzan": 999, "pinlun": 555 }
 
     ]
 }

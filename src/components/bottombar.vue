@@ -1,13 +1,12 @@
 <template>
   <div>
       <div id="footer">
-      <!-- <link rel="stylesheet" href="download/font_3247002_gopb8yrvhno/iconfont.css"> -->
-      <router-link to="/Home"><span class="iconfont icon-shouye"></span><a class="a1">首页</a></router-link> 
-      <router-link to="/About"><span class="iconfont icon-quanzi"></span><a class="a1">doki</a> </router-link>
-      <router-link to="/vip"><span class="iconfont icon-huiyuanvip"></span><a class="a1 a2">VIP会员</a></router-link>
-      <router-link to="/news"><span class="iconfont icon-xiaoxi"></span><a class="a1">消息</a></router-link>
-      <router-link to="/self"><span class="iconfont icon-xiaolian"></span><a class="a1 a2 a3">个人中心</a></router-link>
-    </div>
+        <router-link to="/Home"><span class="iconfont icon-shouye"></span><a class="a1">首页</a></router-link> 
+        <router-link to="/About"><span class="iconfont icon-quanzi"></span><a class="a1">doki</a> </router-link>
+        <router-link to="/vip"><span class="iconfont icon-huiyuanvip"></span><a class="a1 a2">VIP会员</a></router-link>
+        <router-link to="/news"><span class="iconfont icon-xiaoxi"></span><a class="a1">消息</a></router-link>
+        <router-link to="/self"><span class="iconfont icon-xiaolian"></span><a class="a1 a2 a3">个人中心</a></router-link>
+      </div>
   </div>
 </template>
 
@@ -22,7 +21,7 @@ export default {
       width: 98%;
       height: 0.5rem;
       background: white;
-      border-top: 0.01rem solid #ccc;
+      border-top: 0.01rem solid #ebebeb;
       position: fixed;
       bottom: 0;
       display: flex;

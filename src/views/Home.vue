@@ -4,12 +4,12 @@
     <router-link to="/Home/choice">精选</router-link>
     <router-link to="/Home/find">发现</router-link>
     <router-link to="/Home/life">余生</router-link>
-    <router-link to="/Home/movie">电影</router-link>
+    <router-link to="/Home/movie">漫画</router-link>
+    <a>电影</a>
     <a>电视剧</a>
-    <a>电视剧</a>
-    <a>电视剧</a>
-    <a>电视剧</a>
-    <a>电视剧</a>
+    <a>综艺</a>
+    <a>美食</a>
+    <a>军事</a>
     </div>
     <p class="p1">
     <span class="iconfont icon-pindaoguanli-cebianlan-zidingyicaidan"></span>
@@ -28,8 +28,6 @@ export default {
 </script>
 <style scoped>
   .nav{
-    /* width: 100%; */
-    /* margin-right: 0.3rem; */
     height: 0.4rem;
     background-color: white;
     display: flex;
@@ -39,10 +37,13 @@ export default {
     align-items: center;
     overflow-X: auto;
     position: fixed;
-    border-bottom: 0.01rem solid #ccc;
+    border-bottom: 0.01rem solid #ebebeb;
     margin-bottom: 0.4rem;
     z-index: 999;
+    margin-right: 0.34rem;
+    
   }
+  .nav::-webkit-scrollbar {display:none}
   .nav a{
     display: block;
     /* background-color: red; */
@@ -56,7 +57,7 @@ export default {
     right: 0.1rem;
   }
   .p1{
-    width: 0.3rem;
+    width: 0.4rem;
     height: 0.4rem;
     z-index: 9999;
     background-color: white;
@@ -64,6 +65,10 @@ export default {
     text-align: center;
     position: fixed;
     right: 0.05rem;
+    border-bottom: 0.01rem solid #ebebeb;
+  }
+  .iconfont{
+    font-size: 0.16rem;
   }
   .router-link-active {
     color: #e7cd9b;
